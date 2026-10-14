@@ -13,6 +13,11 @@
 /[Aa]ssets/AssetStoreTools*
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
+# Odin Inspector（Sirenix）——付费商业插件，不可随公开仓库分发
+# 本项目业务代码未引用它；本地如需使用请自行从 Asset Store 导入
+/[Aa]ssets/Plugins/Sirenix/
+/[Aa]ssets/Plugins/Sirenix.meta
+
 # ===== IDE / 编辑器文件（Visual Studio、Rider、VS Code）=====
 /.vs/
 /.idea/
